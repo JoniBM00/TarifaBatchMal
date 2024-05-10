@@ -1,0 +1,5 @@
+com.viewnext.tarifamicro
+com.viewnext.tarifamicro.business
+com.viewnext.tarifamicro.business.model
+com.viewnext.tarifamicro.repository.configuration
+com.viewnext.tarifamicro.repository.listener
